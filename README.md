@@ -4,4 +4,5 @@ This repository provides an overview of a method for estimating the age of field
 
 For access to datasets or additional codes, please contact Cécile Nabet (cecilenabet7@gmail.com) or Noshine Mohammad (noshine.mohammad@gmail.com).
 
-Cite the code: (https://github.com/cecilenabet7/Age_Monitoring_Anopheles/assets/155683176/1e5dc019-1aeb-432e-b5ed-b6e3b0a77fec)
+Cite the code: [![DOI](https://zenodo.org/badge/739147715.svg)](https://zenodo.org/doi/10.5281/zenodo.10460121)
+
